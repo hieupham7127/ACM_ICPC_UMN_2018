@@ -1,11 +1,20 @@
-ACM_ICPC_UMN_2017
+# ACM_ICPC_UMN_2018
 
 ACM ICPC Practice Session. University of Minnesota, Fall 2018.
 
-Tips:
+Location: Keller 1-250 (computer lab) every Friday 3:30pm - 5:00 pm
 
-1. For each algorithm, first do several google search and pick few of them to understand it in high-level.
-2. For each algorithm, know the input, output, and the main idea.
-3. In your choice of programming language, write a template for the algorithm (or find one). You don't have to understand some of the complicated algorithms in detail.
+Contacts: zhan4854@umn.edu (Michael Zhang), phamx555@umn.edu (Hieu Pham)
 
-We are meeting at Keller 1-250 (computer lab) every Friday 3:30pm - 5:00 pm
+#### Practice sites:
+- [HackerRank](https://www.hackerrank.com)
+- [Codeforces](http://codeforces.com)
+- [Spoj](https://www.spoj.com)
+- [TopCoder](https://www.topcoder.com)
+
+#### Resources:
+[Last year practice sessions](https://github.com/batsa003/ACM_ICPC_UofM_2017)
+
+[Stanford ACM ICPC](https://github.com/jaehyunp/stanfordacm)
+
+[Stanford: Introduction to Programming Contests](http://stanford.edu/class/cs97si)
