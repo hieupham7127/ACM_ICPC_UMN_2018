@@ -1,6 +1,6 @@
 # Greedy and Dynamic Programming
 
-** Greedy **
+**Greedy**
 - [HackerEarth](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial)
 - [Wikipedia](https://en.wikipedia.org/wiki/Greedy_algorithm)
 - [Brilliant](https://brilliant.org/wiki/greedy-algorithm)
@@ -8,7 +8,7 @@
 - CSCI 5421: Matroid (for those who are interested in mathematics and proofs)
 - [List of problems](https://www.geeksforgeeks.org/greedy-algorithms)
 
-** Dynamic Programming (DP) **
+**Dynamic Programming (DP)**
 - [TopCoder](https://community.topcoder.com/tc?module=Static&d1=features&d2=040104)
 - [CodeChef](https://www.codechef.com/wiki/tutorial-dynamic-programming)
 - [Stanford CS97SI](http://stanford.edu/class/cs97si/04-dynamic-programming.pdf)
