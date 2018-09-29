@@ -1,17 +1,17 @@
-Data Structures
+**Data Structures**
 - Stack & Queue
 - Dictionary, Set, List
 
-Algorithms
+**Algorithms**
 - Sorting
 - Binary Search
 - Hashing
 
-Implementations
+**Implementations**
 - Input/Output (EOF, fractions, modulo ...)
 - Strings (read line, split into words, conversion ...)
 
-Tricks
+**Tricks**
 - C++ STL (set, unordered_set, map, unordered_map, algorithm, vector, queue, priority_queue, etc.)
 - C++ importation: <bits/stdc++.h>
 - vim or emacs
