@@ -34,6 +34,7 @@
  ### Binomial Coefficients
  
  http://www.csl.mtu.edu/cs4321/www/Lectures/Lecture%2015%20-%20Dynamic%20Programming%20Binomial%20Coefficients.htm
+ 
  To evaluate n choose k, they use C[i, j] = C[i-1, j-1] + C[i-1, j] identity.
  
  ### Basic Probability and Expected Value.
