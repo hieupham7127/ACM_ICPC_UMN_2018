@@ -89,7 +89,7 @@
  http://www.geeksforgeeks.org/divide-and-conquer-introduction/
 
 Contest link:
-- N/A
+- Vjudge: https://vjudge.net/contest/265717
 - ICPC North America Qualifier 2016: https://cs.baylor.edu/~hamerly/icpc/qualifier_2016/
 
 **GOOD LUCK!!!**
